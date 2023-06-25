@@ -1,5 +1,7 @@
 package loops;
 
+import inheritance.Person;
+
 import java.util.Scanner;
 
 public class GrossPayInputValidation {
